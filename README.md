@@ -1,1 +1,1 @@
-# Certifications
+I recently completed a backend certification course offered by PWSkills. This comprehensive program focused on backend development technologies and practices, equipping me with valuable skills in server-side programming, database management, and API development. Through this course, I've gained practical knowledge that's directly applicable to building robust and efficient backend systems for web applications.
